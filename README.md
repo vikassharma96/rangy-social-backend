@@ -1,8 +1,8 @@
-## RANGY SOCIAL APP
-
-`Backend API for RANGY social app using Nest Framework (NodeJS + TypeScript + PostgreSQL)`
+#### RANGY SOCIAL APP
 
 ![NodeJS workflow](https://github.com/vikassharma96/rangy-social-backend/actions/workflows/node.yml/badge.svg)
+
+- Backend API for RANGY social app using Nest Framework (NodeJS + TypeScript + PostgreSQL)
 
 ## Installation
 
